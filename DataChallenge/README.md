@@ -19,4 +19,4 @@ First, I made a multilinear regression with all 80+ predictors. This regression 
 
 The significantly significant and positively correllated arguments with profit improvement were copier sales and Sale of goods in Michigan. The negalitely and significantly significant coefficients are, to list some notable ones, bookcase sells, machine sells, and Florida, Texas, and  Ohio sales.
 
-I decided to concatenate
+I decided to concatenate the regression coefficients to a samller subset. Now, I realize that Copiers really is rallying in profit and Discound is extremely relevant
